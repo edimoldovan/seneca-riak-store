@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "seneca": "^0.6.5",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
     "riak-js": "^1.1.0",
     "node-uuid": "^1.4.3",
   },
