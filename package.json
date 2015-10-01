@@ -19,15 +19,15 @@
   "scripts": {
   },
   "dependencies": {
-    "seneca": "0.5.x",
-    "underscore": "1.4.x",
-    "riak-js":"0.10.2",
-    "node-uuid": "1.4.x"
+    "seneca": "^0.6.5",
+    "underscore": "^1.8.3"
+    "riak-js": "^1.1.0",
+    "node-uuid": "^1.4.3",
   },
   "devDependencies": {
-    "mocha": "1.9.x",
-    "chai": "1.5.x",
-    "async":"0.2.9",
-    "eyes":"0.1.8"
+    "mocha": "^2.3.3",
+    "chai": "^3.3.0",
+    "async": "^1.4.2",
+    "eyes": "^0.1.8",
   }
 }
